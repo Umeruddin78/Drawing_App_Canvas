@@ -6,7 +6,7 @@ Customizable Brush Size: Users can adjust the size of the brush for precise or b
 Color Selection: Choose from a wide range of colors using the color picker tool.
 Save and Export: Save your masterpiece as an image file (PNG or JPEG) directly to your device.
 How to Use:
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/Umeruddin78/drawing-app.git.
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/Umeruddin78/Drawing_App_Canvas.git.
 
 Open index.html: Navigate to the project directory and open index.html in your web browser.
 
